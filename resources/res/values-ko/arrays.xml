@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="phrase_text_array">
+        <item>문구를</item>
+        <item>추가하려면</item>
+        <item>+ 버튼을</item>
+        <item>중요한 것은</item>
+        <item>꺾이지 않는</item>
+        <item>마음</item>
+        <item>ㅋㅋㅋㅋ</item>
+        <item>사랑해</item>
+    </array>
+</resources>

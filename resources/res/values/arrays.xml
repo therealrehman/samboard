@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="effect_color_pastel">
+        <item>#91d2db</item>
+        <item>#e9a7c6</item>
+        <item>#8ed1b7</item>
+        <item>#fecb52</item>
+    </array>
+    <array name="effect_color_preset_amphibian">
+        <item>#3e54d3</item>
+        <item>#4f80e2</item>
+        <item>#15cdca</item>
+        <item>#4fe0b6</item>
+    </array>
+    <array name="effect_color_preset_beachside">
+        <item>#3b7097</item>
+        <item>#75bde0</item>
+        <item>#a9d09e</item>
+        <item>#f6e2bc</item>
+    </array>
+    <array name="effect_color_preset_caribbean">
+        <item>#53d2dc</item>
+        <item>#3196e2</item>
+        <item>#ff826c</item>
+        <item>#ffc05f</item>
+    </array>
+    <array name="effect_color_preset_cove">
+        <item>#006bbb</item>
+        <item>#30a0e0</item>
+        <item>#ffc872</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_cranberry">
+        <item>#dd4470</item>
+        <item>#fe72a9</item>
+        <item>#ffc872</item>
+        <item>#fce48f</item>
+    </array>
+    <array name="effect_color_preset_embers">
+        <item>#41436a</item>
+        <item>#984063</item>
+        <item>#f64668</item>
+        <item>#fe9677</item>
+    </array>
+    <array name="effect_color_preset_four_seasons">
+        <item>#2e9599</item>
+        <item>#f7dc68</item>
+        <item>#f46c3f</item>
+        <item>#a7226f</item>
+    </array>
+    <array name="effect_color_preset_fruits_basket">
+        <item>#e984a2</item>
+        <item>#b9cc95</item>
+        <item>#f8d49b</item>
+        <item>#f8e6cb</item>
+    </array>
+    <array name="effect_color_preset_glassdoor">
+        <item>#3d9a8b</item>
+        <item>#2eb19f</item>
+        <item>#63c2d2</item>
+        <item>#b7edff</item>
+    </array>
+    <array name="effect_color_preset_grays">
+        <item>#e7e7e7</item>
+        <item>#d1d1d1</item>
+        <item>#b6b6b6</item>
+        <item>#9b9b9b</item>
+    </array>
+    <array name="effect_color_preset_haze">
+        <item>#0f6bae</item>
+        <item>#248db6</item>
+        <item>#83b8ff</item>
+        <item>#c6cdff</item>
+    </array>
+    <array name="effect_color_preset_kermit">
+        <item>#75bde0</item>
+        <item>#78d1d2</item>
+        <item>#97dbae</item>
+        <item>#cde4ad</item>
+    </array>
+    <array name="effect_color_preset_kiwi">
+        <item>#028174</item>
+        <item>#0ab68b</item>
+        <item>#92de8b</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_matte">
+        <item>#293556</item>
+        <item>#2e4583</item>
+        <item>#3e60c1</item>
+        <item>#5983fc</item>
+    </array>
+    <array name="effect_color_preset_melon">
+        <item>#97dbae</item>
+        <item>#c3e5ae</item>
+        <item>#f1e1a6</item>
+        <item>#f4bbbb</item>
+    </array>
+    <array name="effect_color_preset_ocean">
+        <item>#345da7</item>
+        <item>#3b8ac4</item>
+        <item>#4bb4de</item>
+        <item>#efdbcb</item>
+    </array>
+    <array name="effect_color_preset_periwinkle">
+        <item>#9a9cea</item>
+        <item>#a2b9ee</item>
+        <item>#a2dcee</item>
+        <item>#adeee2</item>
+    </array>
+    <array name="effect_color_preset_petal">
+        <item>#4c4141</item>
+        <item>#ef534f</item>
+        <item>#fb7e96</item>
+        <item>#ffcdd2</item>
+    </array>
+    <array name="effect_color_preset_pink_la">
+        <item>#7827e6</item>
+        <item>#8d39ec</item>
+        <item>#aa4ff6</item>
+        <item>#ea89fc</item>
+    </array>
+    <array name="effect_color_preset_popsicle">
+        <item>#f3533a</item>
+        <item>#fa9f42</item>
+        <item>#8ad879</item>
+        <item>#5acfc9</item>
+    </array>
+    <array name="effect_color_preset_rose">
+        <item>#cc184e</item>
+        <item>#e84575</item>
+        <item>#f76cae</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_scales">
+        <item>#7339ab</item>
+        <item>#625ad8</item>
+        <item>#1f9ce4</item>
+        <item>#88f4ff</item>
+    </array>
+    <array name="effect_color_preset_sea_side">
+        <item>#26648e</item>
+        <item>#4f8fc0</item>
+        <item>#53d2dc</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_stormi">
+        <item>#3b7097</item>
+        <item>#4a8db7</item>
+        <item>#75bde0</item>
+        <item>#a2e2f8</item>
+    </array>
+    <array name="effect_color_preset_strawberry1">
+        <item>#dd4470</item>
+        <item>#fe72a9</item>
+        <item>#c6df76</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_strawberry2">
+        <item>#f14666</item>
+        <item>#ee8980</item>
+        <item>#ffcdaa</item>
+        <item>#9cb898</item>
+    </array>
+    <array name="effect_color_preset_sunrise">
+        <item>#5f236b</item>
+        <item>#be375f</item>
+        <item>#ed8554</item>
+        <item>#f5e86d</item>
+    </array>
+    <array name="effect_color_preset_sunrise2">
+        <item>#75bde0</item>
+        <item>#f8d49b</item>
+        <item>#f8bc9b</item>
+        <item>#f89b8b</item>
+    </array>
+    <array name="effect_color_preset_sunset">
+        <item>#355c7d</item>
+        <item>#725a7a</item>
+        <item>#c56c86</item>
+        <item>#ff7582</item>
+    </array>
+    <array name="effect_color_preset_sunset2">
+        <item>#c848b9</item>
+        <item>#f962a7</item>
+        <item>#fd836d</item>
+        <item>#ffba69</item>
+    </array>
+    <array name="effect_color_preset_traverse_city">
+        <item>#5193b3</item>
+        <item>#62c4c3</item>
+        <item>#f8d49b</item>
+        <item>#f8e6cb</item>
+    </array>
+    <array name="effect_color_preset_turtle">
+        <item>#e5efc1</item>
+        <item>#a2d5ab</item>
+        <item>#39aea9</item>
+        <item>#558b83</item>
+    </array>
+    <array name="effect_color_preset_velvet">
+        <item>#313866</item>
+        <item>#50409a</item>
+        <item>#964ec2</item>
+        <item>#ff7bbf</item>
+    </array>
+    <array name="effect_color_preset_viola">
+        <item>#752092</item>
+        <item>#c957db</item>
+        <item>#ffc872</item>
+        <item>#ffe3b3</item>
+    </array>
+    <array name="effect_color_preset_warning">
+        <item>#c5211c</item>
+        <item>#e4443f</item>
+        <item>#f59b65</item>
+        <item>#f7ba79</item>
+    </array>
+    <array name="emoji_category_drawable">
+        <item>@drawable/ic_emoticon_category_smileys_and_face</item>
+        <item>@drawable/ic_emoticon_category_animal_and_nature</item>
+        <item>@drawable/ic_emoticon_category_food_and_drink</item>
+        <item>@drawable/ic_emoticon_category_travel_and_places</item>
+        <item>@drawable/ic_emoticon_category_activities</item>
+        <item>@drawable/ic_emoticon_category_object</item>
+        <item>@drawable/ic_emoticon_category_symbol</item>
+        <item>@drawable/ic_emoticon_category_flag</item>
+    </array>
+    <array name="honeytea_color_preset">
+        <item>@array/honeytea_color_preset_001</item>
+        <item>@array/honeytea_color_preset_002</item>
+        <item>@array/honeytea_color_preset_003</item>
+        <item>@array/honeytea_color_preset_004</item>
+        <item>@array/honeytea_color_preset_005</item>
+        <item>@array/honeytea_color_preset_006</item>
+        <item>@array/honeytea_color_preset_007</item>
+        <item>@array/honeytea_color_preset_008</item>
+        <item>@array/honeytea_color_preset_009</item>
+        <item>@array/honeytea_color_preset_010</item>
+        <item>@array/honeytea_color_preset_011</item>
+        <item>@array/honeytea_color_preset_012</item>
+        <item>@array/honeytea_color_preset_013</item>
+        <item>@array/honeytea_color_preset_014</item>
+        <item>@array/honeytea_color_preset_015</item>
+        <item>@array/honeytea_color_preset_016</item>
+        <item>@array/honeytea_color_preset_017</item>
+        <item>@array/honeytea_color_preset_018</item>
+        <item>@array/honeytea_color_preset_019</item>
+        <item>@array/honeytea_color_preset_020</item>
+        <item>@array/honeytea_color_preset_021</item>
+        <item>@array/honeytea_color_preset_022</item>
+        <item>@array/honeytea_color_preset_023</item>
+        <item>@array/honeytea_color_preset_024</item>
+        <item>@array/honeytea_color_preset_025</item>
+        <item>@array/honeytea_color_preset_026</item>
+        <item>@array/honeytea_color_preset_027</item>
+        <item>@array/honeytea_color_preset_028</item>
+        <item>@array/honeytea_color_preset_029</item>
+        <item>@array/honeytea_color_preset_030</item>
+        <item>@array/honeytea_color_preset_031</item>
+        <item>@array/honeytea_color_preset_032</item>
+        <item>@array/honeytea_color_preset_033</item>
+        <item>@array/honeytea_color_preset_034</item>
+        <item>@array/honeytea_color_preset_035</item>
+        <item>@array/honeytea_color_preset_036</item>
+    </array>
+    <array name="honeytea_color_preset_001">
+        <item>#9cddfc</item>
+        <item>#434343</item>
+        <item>#93ecf6</item>
+        <item>#92deeb</item>
+        <item>#5aa2ab</item>
+    </array>
+    <array name="honeytea_color_preset_002">
+        <item>#eaefeb</item>
+        <item>#e2e8e4</item>
+        <item>#2456ad</item>
+        <item>#406093</item>
+        <item>#eef4f7</item>
+    </array>
+    <array name="honeytea_color_preset_003">
+        <item>#545a6f</item>
+        <item>#c8d9e1</item>
+        <item>#788b92</item>
+        <item>#497c3b</item>
+        <item>#aac68c</item>
+    </array>
+    <array name="honeytea_color_preset_004">
+        <item>#ef2f3a</item>
+        <item>#2b3335</item>
+        <item>#2b3335</item>
+        <item>#555555</item>
+        <item>#555555</item>
+    </array>
+    <array name="honeytea_color_preset_005">
+        <item>#ebecea</item>
+        <item>#2f3038</item>
+        <item>#a1a398</item>
+        <item>#f07db4</item>
+        <item>#5ca9a1</item>
+    </array>
+    <array name="honeytea_color_preset_006">
+        <item>#89aec0</item>
+        <item>#e4e8f4</item>
+        <item>#e4e8f4</item>
+        <item>#5e707a</item>
+        <item>#5e707a</item>
+    </array>
+    <array name="honeytea_color_preset_007">
+        <item>#0b1015</item>
+        <item>#242261</item>
+        <item>#1c2a45</item>
+        <item>#376998</item>
+        <item>#8e475f</item>
+    </array>
+    <array name="honeytea_color_preset_008">
+        <item>#d43e4a</item>
+        <item>#535160</item>
+        <item>#535160</item>
+        <item>#ed9d61</item>
+        <item>#ed9d61</item>
+    </array>
+    <array name="honeytea_color_preset_009">
+        <item>#453e3d</item>
+        <item>#fffef9</item>
+        <item>#504d48</item>
+        <item>#63625e</item>
+        <item>#cecdc9</item>
+    </array>
+    <array name="honeytea_color_preset_010">
+        <item>#02ba98</item>
+        <item>#e8d9c2</item>
+        <item>#b7ab99</item>
+        <item>#7c7257</item>
+        <item>#1a0b00</item>
+    </array>
+    <array name="honeytea_color_preset_011">
+        <item>#d6dfe4</item>
+        <item>#eaeef0</item>
+        <item>#eaeef0</item>
+        <item>#3b71b2</item>
+        <item>#3b71b2</item>
+    </array>
+    <array name="honeytea_color_preset_012">
+        <item>#3371b5</item>
+        <item>#3ba0e1</item>
+        <item>#3ba0e1</item>
+        <item>#eef4f7</item>
+        <item>#eef4f7</item>
+    </array>
+    <array name="honeytea_color_preset_013">
+        <item>#141108</item>
+        <item>#534e3b</item>
+        <item>#3b3825</item>
+        <item>#7abeb3</item>
+        <item>#e49fa3</item>
+    </array>
+    <array name="honeytea_color_preset_014">
+        <item>#a95317</item>
+        <item>#514752</item>
+        <item>#d9c19f</item>
+        <item>#b1d7d7</item>
+        <item>#8baca5</item>
+    </array>
+    <array name="honeytea_color_preset_015">
+        <item>#8dc8b4</item>
+        <item>#065832</item>
+        <item>#065832</item>
+        <item>#8ecab8</item>
+        <item>#8ecab8</item>
+    </array>
+    <array name="honeytea_color_preset_016">
+        <item>#d2d0ce</item>
+        <item>#63007d</item>
+        <item>#b2eb4c</item>
+        <item>#c2ef4d</item>
+        <item>#5b106b</item>
+    </array>
+    <array name="honeytea_color_preset_017">
+        <item>#5c6164</item>
+        <item>#969ea0</item>
+        <item>#4c5155</item>
+        <item>#a7d0d0</item>
+        <item>#a7d0d0</item>
+    </array>
+    <array name="honeytea_color_preset_018">
+        <item>#d9e5f3</item>
+        <item>#eef7fe</item>
+        <item>#eef7fe</item>
+        <item>#6d747a</item>
+        <item>#6d747a</item>
+    </array>
+    <array name="honeytea_color_preset_019">
+        <item>#d6dee4</item>
+        <item>#96c1d0</item>
+        <item>#f0f6fb</item>
+        <item>#d4e6ef</item>
+        <item>#b4ced9</item>
+    </array>
+    <array name="honeytea_color_preset_020">
+        <item>#292929</item>
+        <item>#7a7874</item>
+        <item>#000000</item>
+        <item>#1d1b1a</item>
+        <item>#4e4e4d</item>
+    </array>
+    <array name="honeytea_color_preset_021">
+        <item>#929292</item>
+        <item>#353d4d</item>
+        <item>#515357</item>
+        <item>#2b9da2</item>
+        <item>#348c95</item>
+    </array>
+    <array name="honeytea_color_preset_022">
+        <item>#8c8a8b</item>
+        <item>#131616</item>
+        <item>#1e2022</item>
+        <item>#bfbfc0</item>
+        <item>#d2d2d2</item>
+    </array>
+    <array name="honeytea_color_preset_023">
+        <item>#e2e2d5</item>
+        <item>#a59370</item>
+        <item>#e5e5d7</item>
+        <item>#e2decb</item>
+        <item>#6b6a5f</item>
+    </array>
+    <array name="honeytea_color_preset_024">
+        <item>#505159</item>
+        <item>#34534a</item>
+        <item>#aebc81</item>
+        <item>#b8d1c7</item>
+        <item>#dffedd</item>
+    </array>
+    <array name="honeytea_color_preset_025">
+        <item>#323232</item>
+        <item>#602e9e</item>
+        <item>#1f1f1f</item>
+        <item>#55aa5f</item>
+        <item>#2f911e</item>
+    </array>
+    <array name="honeytea_color_preset_026">
+        <item>#fafafa</item>
+        <item>#d9d9d9</item>
+        <item>#e3e3e3</item>
+        <item>#8d9297</item>
+        <item>#5a5d68</item>
+    </array>
+    <array name="honeytea_color_preset_027">
+        <item>#584162</item>
+        <item>#96c1d0</item>
+        <item>#828989</item>
+        <item>#a28baa</item>
+        <item>#87d6c8</item>
+    </array>
+    <array name="honeytea_color_preset_028">
+        <item>#191617</item>
+        <item>#a5e3e0</item>
+        <item>#48332a</item>
+        <item>#525f5c</item>
+        <item>#64cbce</item>
+    </array>
+    <array name="honeytea_color_preset_029">
+        <item>#e0e2e6</item>
+        <item>#6f726f</item>
+        <item>#e77268</item>
+        <item>#dae0de</item>
+        <item>#f4d4cc</item>
+    </array>
+    <array name="honeytea_color_preset_030">
+        <item>#4c4d46</item>
+        <item>#adbfd4</item>
+        <item>#7c8ba1</item>
+        <item>#cedde3</item>
+        <item>#a0afc2</item>
+    </array>
+    <array name="honeytea_color_preset_031">
+        <item>#1b1a1f</item>
+        <item>#e8e4e4</item>
+        <item>#beb7ae</item>
+        <item>#747f9a</item>
+        <item>#31343d</item>
+    </array>
+    <array name="honeytea_color_preset_032">
+        <item>#283135</item>
+        <item>#0364c9</item>
+        <item>#02baf2</item>
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+    </array>
+    <array name="honeytea_color_preset_033">
+        <item>#141518</item>
+        <item>#eda2b6</item>
+        <item>#141518</item>
+        <item>#141518</item>
+        <item>#eda2b6</item>
+    </array>
+    <array name="honeytea_color_preset_034">
+        <item>#9dbcca</item>
+        <item>#fef682</item>
+        <item>#9dbcca</item>
+        <item>#f4b122</item>
+        <item>#fef682</item>
+    </array>
+    <array name="honeytea_color_preset_035">
+        <item>#774b15</item>
+        <item>#0f914d</item>
+        <item>#c90000</item>
+        <item>#ffe93d</item>
+        <item>#ffe93d</item>
+    </array>
+    <array name="honeytea_color_preset_036">
+        <item>#532202</item>
+        <item>#d99832</item>
+        <item>#ad0a0f</item>
+        <item>#ffe93d</item>
+        <item>#ffe93d</item>
+    </array>
+    <array name="honeytea_color_preset_v2">
+        <item>@array/honeytea_color_preset_v2_001</item>
+        <item>@array/honeytea_color_preset_v2_002</item>
+        <item>@array/honeytea_color_preset_v2_003</item>
+        <item>@array/honeytea_color_preset_v2_004</item>
+        <item>@array/honeytea_color_preset_v2_005</item>
+        <item>@array/honeytea_color_preset_v2_006</item>
+        <item>@array/honeytea_color_preset_v2_007</item>
+        <item>@array/honeytea_color_preset_v2_008</item>
+        <item>@array/honeytea_color_preset_v2_009</item>
+        <item>@array/honeytea_color_preset_v2_010</item>
+        <item>@array/honeytea_color_preset_v2_011</item>
+        <item>@array/honeytea_color_preset_v2_012</item>
+        <item>@array/honeytea_color_preset_v2_013</item>
+        <item>@array/honeytea_color_preset_v2_014</item>
+        <item>@array/honeytea_color_preset_v2_015</item>
+        <item>@array/honeytea_color_preset_v2_016</item>
+        <item>@array/honeytea_color_preset_v2_017</item>
+        <item>@array/honeytea_color_preset_v2_018</item>
+        <item>@array/honeytea_color_preset_v2_019</item>
+        <item>@array/honeytea_color_preset_v2_020</item>
+        <item>@array/honeytea_color_preset_v2_021</item>
+        <item>@array/honeytea_color_preset_v2_022</item>
+        <item>@array/honeytea_color_preset_v2_023</item>
+        <item>@array/honeytea_color_preset_v2_024</item>
+        <item>@array/honeytea_color_preset_v2_025</item>
+        <item>@array/honeytea_color_preset_v2_026</item>
+        <item>@array/honeytea_color_preset_v2_027</item>
+        <item>@array/honeytea_color_preset_v2_028</item>
+        <item>@array/honeytea_color_preset_v2_029</item>
+        <item>@array/honeytea_color_preset_v2_030</item>
+        <item>@array/honeytea_color_preset_v2_031</item>
+        <item>@array/honeytea_color_preset_v2_032</item>
+        <item>@array/honeytea_color_preset_v2_033</item>
+        <item>@array/honeytea_color_preset_v2_034</item>
+        <item>@array/honeytea_color_preset_v2_035</item>
+        <item>@array/honeytea_color_preset_v2_036</item>
+    </array>
+    <array name="honeytea_color_preset_v2_001">
+        <item>#9cddfc</item>
+        <item>#434343</item>
+        <item>#93ecf6</item>
+        <item>#ebebeb</item>
+        <item>#5aa2ab</item>
+    </array>
+    <array name="honeytea_color_preset_v2_002">
+        <item>#eaefeb</item>
+        <item>#e2e8e4</item>
+        <item>#2456ad</item>
+        <item>#406093</item>
+        <item>#eef4f7</item>
+    </array>
+    <array name="honeytea_color_preset_v2_003">
+        <item>#545a6f</item>
+        <item>#c8d9e1</item>
+        <item>#788b92</item>
+        <item>#497c3b</item>
+        <item>#aac68c</item>
+    </array>
+    <array name="honeytea_color_preset_v2_004">
+        <item>#ef2f3a</item>
+        <item>#2b3335</item>
+        <item>#2b3335</item>
+        <item>#555555</item>
+        <item>#555555</item>
+    </array>
+    <array name="honeytea_color_preset_v2_005">
+        <item>#ebecea</item>
+        <item>#2f3038</item>
+        <item>#a1a398</item>
+        <item>#f07db4</item>
+        <item>#5ca9a1</item>
+    </array>
+    <array name="honeytea_color_preset_v2_006">
+        <item>#89aec0</item>
+        <item>#e4e8f4</item>
+        <item>#e4e8f4</item>
+        <item>#5e707a</item>
+        <item>#5e707a</item>
+    </array>
+    <array name="honeytea_color_preset_v2_007">
+        <item>#0b1015</item>
+        <item>#242261</item>
+        <item>#1c2a45</item>
+        <item>#376998</item>
+        <item>#8e475f</item>
+    </array>
+    <array name="honeytea_color_preset_v2_008">
+        <item>#d43e4a</item>
+        <item>#535160</item>
+        <item>#535160</item>
+        <item>#ed9d61</item>
+        <item>#ed9d61</item>
+    </array>
+    <array name="honeytea_color_preset_v2_009">
+        <item>#453e3d</item>
+        <item>#fffef9</item>
+        <item>#504d48</item>
+        <item>#63625e</item>
+        <item>#cecdc9</item>
+    </array>
+    <array name="honeytea_color_preset_v2_010">
+        <item>#02ba98</item>
+        <item>#e8d9c2</item>
+        <item>#b7ab99</item>
+        <item>#7c7257</item>
+        <item>#1a0b00</item>
+    </array>
+    <array name="honeytea_color_preset_v2_011">
+        <item>#d6dfe4</item>
+        <item>#eaeef0</item>
+        <item>#eaeef0</item>
+        <item>#3b71b2</item>
+        <item>#3b71b2</item>
+    </array>
+    <array name="honeytea_color_preset_v2_012">
+        <item>#3371b5</item>
+        <item>#3ba0e1</item>
+        <item>#3ba0e1</item>
+        <item>#eef4f7</item>
+        <item>#eef4f7</item>
+    </array>
+    <array name="honeytea_color_preset_v2_013">
+        <item>#141108</item>
+        <item>#534e3b</item>
+        <item>#3b3825</item>
+        <item>#7abeb3</item>
+        <item>#e49fa3</item>
+    </array>
+    <array name="honeytea_color_preset_v2_014">
+        <item>#a95317</item>
+        <item>#514752</item>
+        <item>#d9c19f</item>
+        <item>#b1d7d7</item>
+        <item>#8baca5</item>
+    </array>
+    <array name="honeytea_color_preset_v2_015">
+        <item>#8dc8b4</item>
+        <item>#065832</item>
+        <item>#065832</item>
+        <item>#cacaca</item>
+        <item>#8ecab8</item>
+    </array>
+    <array name="honeytea_color_preset_v2_016">
+        <item>#d2d0ce</item>
+        <item>#63007d</item>
+        <item>#b2eb4c</item>
+        <item>#c2ef4d</item>
+        <item>#5b106b</item>
+    </array>
+    <array name="honeytea_color_preset_v2_017">
+        <item>#5c6164</item>
+        <item>#969ea0</item>
+        <item>#4c5155</item>
+        <item>#a7d0d0</item>
+        <item>#a7d0d0</item>
+    </array>
+    <array name="honeytea_color_preset_v2_018">
+        <item>#d9e5f3</item>
+        <item>#eef7fe</item>
+        <item>#eef7fe</item>
+        <item>#6d747a</item>
+        <item>#6d747a</item>
+    </array>
+    <array name="honeytea_color_preset_v2_019">
+        <item>#d6dee4</item>
+        <item>#96c1d0</item>
+        <item>#f0f6fb</item>
+        <item>#009fef</item>
+        <item>#b4ced9</item>
+    </array>
+    <array name="honeytea_color_preset_v2_020">
+        <item>#292929</item>
+        <item>#7a7874</item>
+        <item>#000000</item>
+        <item>#1d0a00</item>
+        <item>#4e4e4d</item>
+    </array>
+    <array name="honeytea_color_preset_v2_021">
+        <item>#929292</item>
+        <item>#353d4d</item>
+        <item>#515357</item>
+        <item>#2b9da2</item>
+        <item>#348c95</item>
+    </array>
+    <array name="honeytea_color_preset_v2_022">
+        <item>#8c8a8b</item>
+        <item>#131616</item>
+        <item>#1e2022</item>
+        <item>#bfbfc0</item>
+        <item>#d2d2d2</item>
+    </array>
+    <array name="honeytea_color_preset_v2_023">
+        <item>#e2e2d5</item>
+        <item>#a59370</item>
+        <item>#e5e5d7</item>
+        <item>#e2bb00</item>
+        <item>#6b6a5f</item>
+    </array>
+    <array name="honeytea_color_preset_v2_024">
+        <item>#505159</item>
+        <item>#34534a</item>
+        <item>#aebc81</item>
+        <item>#b8d1c7</item>
+        <item>#dffedd</item>
+    </array>
+    <array name="honeytea_color_preset_v2_025">
+        <item>#323232</item>
+        <item>#602e9e</item>
+        <item>#1f1f1f</item>
+        <item>#55aa5f</item>
+        <item>#2f911e</item>
+    </array>
+    <array name="honeytea_color_preset_v2_026">
+        <item>#fafafa</item>
+        <item>#d9d9d9</item>
+        <item>#e3e3e3</item>
+        <item>#8d9297</item>
+        <item>#5a5d68</item>
+    </array>
+    <array name="honeytea_color_preset_v2_027">
+        <item>#584162</item>
+        <item>#96c1d0</item>
+        <item>#828989</item>
+        <item>#a28baa</item>
+        <item>#87d6c8</item>
+    </array>
+    <array name="honeytea_color_preset_v2_028">
+        <item>#191617</item>
+        <item>#a5e3e0</item>
+        <item>#48332a</item>
+        <item>#525f5c</item>
+        <item>#64cbce</item>
+    </array>
+    <array name="honeytea_color_preset_v2_029">
+        <item>#e0e2e6</item>
+        <item>#6f726f</item>
+        <item>#e77268</item>
+        <item>#00e095</item>
+        <item>#f4d4cc</item>
+    </array>
+    <array name="honeytea_color_preset_v2_030">
+        <item>#4c4d46</item>
+        <item>#adbfd4</item>
+        <item>#7c8ba1</item>
+        <item>#cedde3</item>
+        <item>#a0afc2</item>
+    </array>
+    <array name="honeytea_color_preset_v2_031">
+        <item>#1b1a1f</item>
+        <item>#e8e4e4</item>
+        <item>#beb7ae</item>
+        <item>#747f9a</item>
+        <item>#31343d</item>
+    </array>
+    <array name="honeytea_color_preset_v2_032">
+        <item>#283135</item>
+        <item>#0364c9</item>
+        <item>#02baf2</item>
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+    </array>
+    <array name="honeytea_color_preset_v2_033">
+        <item>#141518</item>
+        <item>#eda2b6</item>
+        <item>#141518</item>
+        <item>#ffffff</item>
+        <item>#eda2b6</item>
+    </array>
+    <array name="honeytea_color_preset_v2_034">
+        <item>#9dbcca</item>
+        <item>#fef682</item>
+        <item>#9dbcca</item>
+        <item>#f4b122</item>
+        <item>#fef682</item>
+    </array>
+    <array name="honeytea_color_preset_v2_035">
+        <item>#774b15</item>
+        <item>#0f914d</item>
+        <item>#c90000</item>
+        <item>#ffe93d</item>
+        <item>#ffe93d</item>
+    </array>
+    <array name="honeytea_color_preset_v2_036">
+        <item>#532202</item>
+        <item>#d99832</item>
+        <item>#ad0a0f</item>
+        <item>#ffe93d</item>
+        <item>#ffe93d</item>
+    </array>
+    <array name="honeytea_effect_color_preset">
+        <item>@array/effect_color_preset_popsicle</item>
+        <item>@array/effect_color_preset_kermit</item>
+        <item>@array/effect_color_pastel</item>
+        <item>@array/effect_color_preset_amphibian</item>
+        <item>@array/effect_color_preset_sunrise2</item>
+        <item>@array/effect_color_preset_melon</item>
+        <item>@array/effect_color_preset_four_seasons</item>
+        <item>@array/effect_color_preset_viola</item>
+        <item>@array/effect_color_preset_glassdoor</item>
+        <item>@array/effect_color_preset_embers</item>
+        <item>@array/effect_color_preset_turtle</item>
+        <item>@array/effect_color_preset_sea_side</item>
+        <item>@array/effect_color_preset_velvet</item>
+        <item>@array/effect_color_preset_cove</item>
+        <item>@array/effect_color_preset_ocean</item>
+        <item>@array/effect_color_preset_strawberry1</item>
+        <item>@array/effect_color_preset_sunrise</item>
+        <item>@array/effect_color_preset_traverse_city</item>
+        <item>@array/effect_color_preset_rose</item>
+        <item>@array/effect_color_preset_matte</item>
+        <item>@array/effect_color_preset_fruits_basket</item>
+        <item>@array/effect_color_preset_pink_la</item>
+        <item>@array/effect_color_preset_periwinkle</item>
+        <item>@array/effect_color_preset_strawberry2</item>
+        <item>@array/effect_color_preset_kiwi</item>
+        <item>@array/effect_color_preset_scales</item>
+        <item>@array/effect_color_preset_cranberry</item>
+        <item>@array/effect_color_preset_stormi</item>
+        <item>@array/effect_color_preset_petal</item>
+        <item>@array/effect_color_preset_warning</item>
+        <item>@array/effect_color_preset_sunset</item>
+        <item>@array/effect_color_preset_beachside</item>
+        <item>@array/effect_color_preset_sunset2</item>
+        <item>@array/effect_color_preset_haze</item>
+        <item>@array/effect_color_preset_caribbean</item>
+        <item>@array/effect_color_preset_grays</item>
+    </array>
+    <array name="phrase_text_array">
+        <item>Hi</item>
+        <item>Sorry</item>
+        <item>Good</item>
+        <item>lol</item>
+        <item>awesome</item>
+        <item>Luv U</item>
+        <item>OMG</item>
+        <item>Oops</item>
+        <item>Whazzup?</item>
+    </array>
+</resources>

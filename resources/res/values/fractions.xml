@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="icecafe_button_width">75%</fraction>
+    <fraction name="icecafe_button_width_tablet">60%</fraction>
+    <fraction name="icecafe_horizontal_padding">3.1%</fraction>
+    <fraction name="icecafe_horizontal_padding_tablet">5%</fraction>
+    <fraction name="meme_category_center_area_side_padding">3.0555%p</fraction>
+    <fraction name="meme_category_text_margin">3.8889%</fraction>
+    <fraction name="meme_category_text_margin_floating">3.8889%</fraction>
+    <fraction name="meme_category_text_margin_tablet">3.9065%</fraction>
+</resources>
